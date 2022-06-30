@@ -5,7 +5,7 @@ A dataset of egocentric vision, eye-tracking and full body kinematics from human
 'cvSave_v5_kinematics_and_vision.m' generates the same and also saves the id of synchronized vision frames.
 
 
-Please refer to the visualizations below to verify the synchronization of Vision and Kinematics streams. These can be generated using the script 'custom_humanoid.m' in /Visualizations/
+Please refer to the visualizations below to verify the synchronization of Vision and Kinematics streams. These can be generated using the script 'custom_humanoid.m' in the Visualizations directory
 
 
 
