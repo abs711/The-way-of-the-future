@@ -34,7 +34,7 @@ this_dir = pwd;
 idcs   = strfind(this_dir,filesep);
 main_dir = this_dir(1:idcs(end)-1); %main data dir
 data_dir='Unstructured_data\Unstructured_Data';
-subjects = {'2019_07_02_Zhongyi01'}%,'2019_07_03_April','2019_07_06_Vivian'};%{'2019_07_02_Zhongyi01',;
+subjects = {'xUD002'}
 
 
 
