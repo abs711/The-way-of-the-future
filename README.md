@@ -2,8 +2,12 @@
 A dataset of egocentric vision, eye-tracking and full body kinematics from human locomotion in out-of-the-lab environments. The data can be accessed on figshare- https://figshare.com/s/06ef299a0cd56a5a998c
 
 
-Please refer to the visualization below to verify the synchronization of Vision and Kinematics streams.
+Please refer to the visualizations below to verify the synchronization of Vision and Kinematics streams. These can be generated using the script 'custom_humanoid.m' in The-way-of-the-future/Visualization/
 
+
+
+
+https://user-images.githubusercontent.com/42185229/176592556-558e046a-59f0-4968-a83a-18c68e9d2e5f.mp4
 
 
 
