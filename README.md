@@ -6,7 +6,7 @@
 
 
 
-A dataset of egocentric vision, eye-tracking and full body kinematics from human locomotion in out-of-the-lab environments. The data can be accessed on figshare- https://figshare.com/s/06ef299a0cd56a5a998c
+A dataset of egocentric vision, eye-tracking and full body kinematics from about 24 hours of human locomotion in out-of-the-lab environments. The data can be accessed on figshare- https://figshare.com/s/06ef299a0cd56a5a998c
 
 ## Dataset storage format
 The data is stored in a hierarchical structure. Each leaf node (green, far right) is a file, stored in folders and
