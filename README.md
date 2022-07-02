@@ -18,8 +18,9 @@ https://user-images.githubusercontent.com/42185229/176592556-558e046a-59f0-4968-
 https://user-images.githubusercontent.com/42185229/176586985-75a7d6a2-4445-4c51-b5f6-1d5c493f6bad.mp4
 
 
-Relevant papers-
 
+
+Relevant papers-
 1) Improving IMU-Based Prediction of Lower Limb Kinematics in Natural Environments Using Egocentric Optical Flow- https://ieeexplore.ieee.org/abstract/document/9729197
 2) Mode-free control of prosthetic lower limbs- https://ieeexplore.ieee.org/abstract/document/8710187
 3) Continuous and Unified Modeling of Joint Kinematics for Multiple Activities- https://ieeexplore.ieee.org/abstract/document/9765480
