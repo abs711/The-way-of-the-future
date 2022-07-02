@@ -20,10 +20,3 @@ https://user-images.githubusercontent.com/42185229/176586985-75a7d6a2-4445-4c51-
 
 
 
-Relevant papers-
-1) Improving IMU-Based Prediction of Lower Limb Kinematics in Natural Environments Using Egocentric Optical Flow- https://ieeexplore.ieee.org/abstract/document/9729197
-2) Mode-free control of prosthetic lower limbs- 
-https://ieeexplore.ieee.org/abstract/document/8710187
-3) Continuous and Unified Modeling of Joint Kinematics for Multiple Activities- https://ieeexplore.ieee.org/abstract/document/9765480
-4) Vision for Prosthesis Control Using Unsupervised Labeling of Training Data- https://ieeexplore.ieee.org/abstract/document/9555789
-5) Dimensionality Reduction of Human Gait for Prosthetic Control- https://www.frontiersin.org/articles/10.3389/fbioe.2021.724626/full
