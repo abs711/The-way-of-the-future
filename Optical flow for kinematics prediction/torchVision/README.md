@@ -1,1 +1,1 @@
-
+Drop the subject directories (xUD***) with processed data in ./data/processed and run 'feature_extractor.py'. This would store optical flow features in the directory 'motion_feats' for subject. Then run 'main.py' to train a model fusing vision and kinematics for knee and ankle prediction. 
