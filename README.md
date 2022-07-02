@@ -8,6 +8,15 @@
 
 A dataset of egocentric vision, eye-tracking and full body kinematics from human locomotion in out-of-the-lab environments. The data can be accessed on figshare- https://figshare.com/s/06ef299a0cd56a5a998c
 
+## Dataset storage format
+The data is stored in a hierarchical structure. Each leaf node (green, far right) is a file, stored in folders and
+subfolders (blue boxes) as depicted here.
+
+![data_format4](https://user-images.githubusercontent.com/42185229/176984711-26fe5781-f81b-446c-9b45-07764b4d80a6.png)
+
+
+
+## Regarding the code
 'csvSave_v5_kine_only.m' generates the processed .csv files with Kinematics data from the raw mvnx files.
 'cvSave_v5_kinematics_and_vision.m' generates the same and also saves the id of synchronized vision frames.
 
