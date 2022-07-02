@@ -1,4 +1,11 @@
 # The-way-of-the-future
+
+
+![The way of the future_compressed](https://user-images.githubusercontent.com/42185229/176984475-d5ac496e-7f14-48c0-b599-38e6ed130ac8.png)
+
+
+
+
 A dataset of egocentric vision, eye-tracking and full body kinematics from human locomotion in out-of-the-lab environments. The data can be accessed on figshare- https://figshare.com/s/06ef299a0cd56a5a998c
 
 'csvSave_v5_kine_only.m' generates the processed .csv files with Kinematics data from the raw mvnx files.
