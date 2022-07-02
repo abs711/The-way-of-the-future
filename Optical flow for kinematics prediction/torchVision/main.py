@@ -1,7 +1,7 @@
 
 
 import sys
-sys.path.append("D:/Vision_Replication/DL_Code/utilsX") #"/home/spc/pytorch_challenge-master/DL_Code/utilsX"
+sys.path.append("../utilsX") 
 
 import device_utils
 
