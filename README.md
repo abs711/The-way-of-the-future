@@ -1,5 +1,6 @@
-# The-way-of-the-future (In review)
+# The-way-of-the-future
 
+Paper link: https://doi.org/10.1038/s41597-023-01932-7
 
 ![The way of the future_compressed](https://user-images.githubusercontent.com/42185229/176984475-d5ac496e-7f14-48c0-b599-38e6ed130ac8.png)
 
